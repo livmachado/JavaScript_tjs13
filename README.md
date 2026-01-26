@@ -9,13 +9,13 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/livmachado/javascript_tjs13?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/livmachado/javascript_tjs13?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/livmachado/javascript_tjs13?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/livmachado/javascript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/livmachado/JavaScript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/livmachado/JavaScript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/livmachado/JavaScript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/livmachado/JavaScript_tjs13?style=flat-square" />
     <br />
-  <img src="https://img.shields.io/github/issues/livmachado/javascript_tjs13?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/livmachado/javascript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/livmachado/JavaScript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/livmachado/JavaScript_tjs13?style=flat-square" />
      <img src="https://img.shields.io/badge/bootcamp-Generation Brasil-orange?style=flat-square)"/>
 
 </div>
@@ -92,7 +92,7 @@ Para executar os exemplos localmente, você precisará de:
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/livmachado/javascript_tjs13.git
+git clone https://github.com/livmachado/JavaScript_tjs13.git
 ```
 
 2. Abra a pasta do projeto no **Visual Studio Code**
@@ -136,6 +136,6 @@ Este projeto está licenciado sob a licença **MIT**. Sinta-se livre para estuda
 
 
 
-Desenvolvido por [**Rafael**](https://github.com/livmachado)
+Desenvolvido por [**Lívia**](https://github.com/livmachado)
 Para dúvidas, sugestões ou colaborações, utilize as **issues do GitHub** ou entre em contato diretamente pelo perfil.
 
